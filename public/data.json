@@ -1,32 +1,32 @@
 [
     {
       "id": "64087ebceaefd57ab48bf507",
-      "price": "$3,286.73",
+      "price": 328673,
       "name": "Emily Swanson"
     },
     {
       "id": "64087ebc32cab93fe3649f14",
-      "price": "$2,708.71",
+      "price": 270871,
       "name": "Cantrell Leonardo"
     },
     {
       "id": "64087ebc7c831f819e6eddbd",
-      "price": "$3,968.59",
+      "price": 396859,
       "name": "Mendoza Medinaaaa"
     },
     {
       "id": "64087ebcaa53f35daf3cbe3c",
-      "price": "$2,735.29",
+      "price": 273529,
       "name": "Hicks Lynch"
     },
     {
       "id": "64087ebc89785a2519d396f9",
-      "price": "$1,934.44",
+      "price": 193444,
       "name": "Joyner Morris"
     },
     {
       "id": "64087ebcf72bb7621d51e297",
-      "price": "$3,599.04",
+      "price": 359904,
       "name": "Chelsea Walker"
     }
   ]
